@@ -14,6 +14,9 @@ def index():
     }
 
 # TODO: create CRUD apis for this app
+# CREATE API
+# UPDATE API
+# DELETE API
 
 if __name__ == "__main__":
     app.run(debug=True)
